@@ -1,0 +1,7 @@
+C:\Users\carlj\source\repos\Basic Calcu\Basic Calcu\bin\Debug\Basic Calcu.exe.config
+C:\Users\carlj\source\repos\Basic Calcu\Basic Calcu\bin\Debug\Basic Calcu.exe
+C:\Users\carlj\source\repos\Basic Calcu\Basic Calcu\bin\Debug\Basic Calcu.pdb
+C:\Users\carlj\source\repos\Basic Calcu\Basic Calcu\obj\Debug\Basic Calcu.csproj.AssemblyReference.cache
+C:\Users\carlj\source\repos\Basic Calcu\Basic Calcu\obj\Debug\Basic Calcu.csproj.CoreCompileInputs.cache
+C:\Users\carlj\source\repos\Basic Calcu\Basic Calcu\obj\Debug\Basic Calcu.exe
+C:\Users\carlj\source\repos\Basic Calcu\Basic Calcu\obj\Debug\Basic Calcu.pdb
